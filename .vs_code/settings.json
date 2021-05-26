@@ -1,0 +1,4 @@
+{   
+    "python.linting.pylintArgs": ["--init-hook","import sys; sys.path.append('/home/angus/python-projects/python_package_starter)"],
+    "python.autoComplete.extraPaths": ["~/python-projects/python_package_starter","~/python-projects/python_package_starter/src/python_package_starter"]
+}

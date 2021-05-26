@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="python_package_starter" name="example_script" type="example_script.py" output="screen"/>
+    <node pkg="python_package_starter" name="example_node" type="example_node.py" output="screen"/>
+</launch>
